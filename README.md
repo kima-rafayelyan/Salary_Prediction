@@ -83,8 +83,7 @@ The best model is saved using `joblib`:
 ```bash
 best_salary_model.pkl
 
-
----
+```
 
 ## ▶️ How to Run
 
@@ -92,11 +91,13 @@ best_salary_model.pkl
 
 ```bash
 pip install pandas numpy scikit-learn joblib
+```
 
 ### 2. Place the dataset file:
 ```bash
 Salary_Data.csv
-
+```
 ### 3. Run the script:
 ```bash
 python your_script_name.py
+```
